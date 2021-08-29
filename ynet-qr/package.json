@@ -1,5 +1,7 @@
 {
   "name": "ynet-qr",
+  "publisher": "vuesch-web",
+  "icon": "images/icon.png",
   "displayName": "YNET-QR",
   "description": "A simple plugin for YNET",
   "version": "0.0.1",
